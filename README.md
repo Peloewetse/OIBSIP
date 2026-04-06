@@ -6,7 +6,9 @@ The goal was to identify open ports and services on the windows host and documen
 
 ### Lab Setup
 Scanning machine:Kali Linux Vm (Test/Attacker system)
+
 Target Machine:Windows VM (Victim/test sytem)
+
 Network:Both Virtual machines were  connected to the same virtual network for isolated and safe testing.
 
 #### Commands executed
